@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment8b</title>
+  </head>
+  <body>
+    <p>For assignment 8b, we were tasked with learning about accessibility on the internet. For the first activity, I chose to learn more about what accessibility is.
+    Accessibility is increased access to digital services for those with additional needs, improved usability for everyone, better SEO, and a wider target audience.
+    For example, there are settings that enable people who have difficulty reading to use something called a "screen reader" which reads out loud while highlighting what is being read.
+    This is a very efficient method of accessibility as it helps people with disabilities use the internet and webpages without difficulty. Some apps with these settings
+    include Google, Firefox, Safari, and Brave. All of these applications are free to use and are widely utilized by millions of people around the world, many who use accessibility settings.
+    
+    For the second activity, I chose to learn more about verifying html using the W3C Markup Validation Service. This program allows you to check code for errors without having to physically connect any wires to the central
+    device. This is very useful when coding your own pages, such as what we did in assignment 8a. All of this and more is very beneficial to people as it enables them to do their tasks without difficulty
+    or waiting for other people to communicate back. These apps have been very beneficial to the work environment. My preferred accessibility tool is the "find word" tool.</p>
+  </body>
+</html>
