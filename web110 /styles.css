@@ -1,13 +1,13 @@
 body {
-background-color: lightblue;
+background-color: blue;
 font-family: bold;
-text-align: left;
+text-align: center;
 float: 1;
 padding: 1px;
 }
 h1 {
-color: navy;
+color: orange;
 margin-left: 20px;
-text-align: left;
+text-align: center;
 }
-9
+10
